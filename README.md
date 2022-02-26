@@ -16,4 +16,8 @@ Here are some ideas to get you started:
 
 Hi My Name is **Sivayogeith Umamaheswaran**
 
-I'm a 11 year old boy!
+I'm just a normal 11-year-old kid with a normal life. 
+
+I know how to code in 8 programming languages.
+
+And I'm also the CTO of Ulagellam Pvt Ltd.
