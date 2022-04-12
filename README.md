@@ -21,6 +21,6 @@ Hi My Name is **Sivayogeith Umamaheswaran**
 I'm just a normal 11-year-old kid with a normal life. 
 
 Projects I Been Working On : <br> 
-Kogu Nadar Varangal <i>(Developing!)</i>
+Kongu Nadar Varangal <i>(Developing!)</i>
 <br /><br /><br /><br /><br />
                                                   💻 Coding
