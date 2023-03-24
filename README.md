@@ -16,7 +16,7 @@ Here are some ideas to get you started:
 
 <a href="https://avatars.githubusercontent.com/u/65064458?v=4" target="_blank" >Github Sivayogeith Image</a>
 
-Hi My Name is **Sivayogeith Umamaheswaran**
+Hi My Name is **Sivayogeith Umamaheswaran, CTO <a href="https://ulagellam.com" target="_blank" >Ulagellam</a>**
 
 I'm just a normal 11-year-old kid with a normal life. 
 
