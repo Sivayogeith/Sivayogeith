@@ -8,13 +8,19 @@
 
   I love these languages/frameworks: 
 
-  - <img src="https://www.vectorlogo.zone/logos/python/python-icon.svg" alt="Python Logo" width="18" height="18"/> Python
-  - <img src="https://www.vectorlogo.zone/logos/typescriptlang/typescriptlang-icon.svg" alt="TypeScript Logo" width="18" height="18"/> TypeScript
-  - <img src="https://upload.wikimedia.org/wikipedia/commons/6/6a/JavaScript-logo.png" alt="JavaScript Logo" width="18" height="18"/> JavaScript
-  - <img src="https://upload.wikimedia.org/wikipedia/commons/c/cf/Angular_full_color_logo.svg" alt="Angular Logo" width="18" height="18"/> Angular
-  - <img src="https://www.vectorlogo.zone/logos/java/java-icon.svg" alt="Java Logo" width="18" height="18"/> Java
-  - <img src="https://upload.vectorlogo.zone/logos/getbootstrap/images/987f8f6c-263a-47b1-a85d-853cfca215d9.svg" alt="Bootstrap Logo" width="18" height="18"/> Bootstrap
-  - <img src="https://cdn.worldvectorlogo.com/logos/svelte-1.svg" alt="Svelte Logo" width="18" height="18"/> Svelte
+<img src="https://www.vectorlogo.zone/logos/python/python-icon.svg" alt="Python Logo" width="18" height="18"/> Python
+  
+<img src="https://www.vectorlogo.zone/logos/typescriptlang/typescriptlang-icon.svg" alt="TypeScript Logo" width="18" height="18"/> TypeScript
+  
+<img src="https://upload.wikimedia.org/wikipedia/commons/6/6a/JavaScript-logo.png" alt="JavaScript Logo" width="18" height="18"/> JavaScript
+  
+<img src="https://upload.wikimedia.org/wikipedia/commons/c/cf/Angular_full_color_logo.svg" alt="Angular Logo" width="18" height="18"/> Angular
+  
+<img src="https://www.vectorlogo.zone/logos/java/java-icon.svg" alt="Java Logo" width="18" height="18"/> Java
+  
+<img src="https://upload.vectorlogo.zone/logos/getbootstrap/images/987f8f6c-263a-47b1-a85d-853cfca215d9.svg" alt="Bootstrap Logo" width="18" height="18"/> Bootstrap
+  
+<img src="https://cdn.worldvectorlogo.com/logos/svelte-1.svg" alt="Svelte Logo" width="18" height="18"/> Svelte
 
   <h1>My Stats </h1>
 
@@ -32,7 +38,7 @@
 
   <details>
     <summary> 
-      <h2>My Family </h2>
+      My Family
     </summary>
     <p><a href=https://github.com/h2i> Umamaheswaran </a> - Father</p>
     <p>Chitra - Mother</p>
