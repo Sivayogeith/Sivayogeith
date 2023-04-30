@@ -1,26 +1,42 @@
-### Hello 👋🏻
-<!--
-**Sivayogeith/Sivayogeith** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+<div align="center">
+  <h1> About Me </h1>
+  <h3> Hello there 👋🏻 </h3>
 
-Here are some ideas to get you started:
+  My Name is **Sivayogeith Umamaheswaran, CTO <a href="https://ulagellam.com" target="_blank" >Ulagellam</a>**
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+  I'm just a normal 11 year old boy who codes.
 
-<a href="https://avatars.githubusercontent.com/u/65064458?v=4" target="_blank" >Github Sivayogeith Image</a>
+  I love these languages/frameworks: 
 
-Hi My Name is **Sivayogeith Umamaheswaran, CTO <a href="https://ulagellam.com" target="_blank" >Ulagellam</a>**
+  - <img src="https://www.vectorlogo.zone/logos/python/python-icon.svg" alt="Python Logo" width="18" height="18"/> Python
+  - <img src="https://www.vectorlogo.zone/logos/typescriptlang/typescriptlang-icon.svg" alt="TypeScript Logo" width="18" height="18"/> TypeScript
+  - <img src="https://upload.wikimedia.org/wikipedia/commons/6/6a/JavaScript-logo.png" alt="JavaScript Logo" width="18" height="18"/> JavaScript
+  - <img src="https://upload.wikimedia.org/wikipedia/commons/c/cf/Angular_full_color_logo.svg" alt="Angular Logo" width="18" height="18"/> Angular
+  - <img src="https://www.vectorlogo.zone/logos/java/java-icon.svg" alt="Java Logo" width="18" height="18"/> Java
+  - <img src="https://upload.vectorlogo.zone/logos/getbootstrap/images/987f8f6c-263a-47b1-a85d-853cfca215d9.svg" alt="Bootstrap Logo" width="18" height="18"/> Bootstrap
+  - <img src="https://cdn.worldvectorlogo.com/logos/svelte-1.svg" alt="Svelte Logo" width="18" height="18"/> Svelte
 
-I'm just a normal 11-year-old kid with a normal life. 
+  <h1>My Stats </h1>
 
-Projects Delivered on time <br> 
-<a href="http://kongunadarvarangal.com" target="_blank">Kongu Nadar Varangal</a>
-<br /><br /><br /><br /><br />
-                                                  💻 Coding
+  <h4> Github Stats </h4>
+
+  ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=Sivayogeith&show_icons=true&theme=one_dark_pro)
+
+  <h4>Github Streak</h4>
+
+  ![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=Sivayogeith&theme=one-dark-pro&sideNums=56B6C2&currStreakNum=56B6C2&ring=56B6C2&sideLabels=61AFEF&fire=E06C75&currStreakLabel=C678DD&dates=E5C07B&background=25262C)
+
+  <h4> Top Langs </h4>
+
+  ![Sivayogeith's GitHub top langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Sivayogeith&theme=one_dark_pro&layout=compact)
+
+  <details>
+    <summary> 
+      <h2>My Family </h2>
+    </summary>
+    <p><a href=https://github.com/h2i> Umamaheswaran </a> - Father</p>
+    <p>Chitra - Mother</p>
+    <p><a href=https://github.com/sivasweatha> Sivasweatha </a> - Sister </p>
+   </details>
+ </div>
+
