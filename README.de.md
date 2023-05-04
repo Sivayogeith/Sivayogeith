@@ -1,4 +1,4 @@
-<div align="right"> <a href="https://github.com/Sivayogeith/Sivayogeith/blob/main/README.md">Englisch</a> </div>
+<div align="right"> <a href="https://github.com/Sivayogeith/Sivayogeith/blob/main/README.md">English</a> </div>
 <div align="center">
   <h1> Über Mich </h1>
   <h3> Hallo 👋🏻 </h3>
