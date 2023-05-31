@@ -37,6 +37,11 @@
 
   ![Sivayogeith's GitHub Top-Sprachen](https://github-readme-stats.vercel.app/api/top-langs/?username=Sivayogeith&theme=one_dark_pro&layout=compact&locale=de)
 
+  
+  <h4> Discord </h4>
+  
+[![Discord Presence](https://lanyard.cnrad.dev/api/1061949717833068607)](https://discord.com/users/1061949717833068607)
+  
   <details>
     <summary> 
       Meine Familie
