@@ -22,9 +22,7 @@
 <img src="https://upload.vectorlogo.zone/logos/getbootstrap/images/987f8f6c-263a-47b1-a85d-853cfca215d9.svg" alt="Bootstrap Logo" width="18" height="18"/> Bootstrap
   
 <img src="https://cdn.worldvectorlogo.com/logos/svelte-1.svg" alt="Svelte Logo" width="18" height="18"/> Svelte
- <h4>Code Wars</h4>
- ![Code Wars](https://www.codewars.com/users/thecodingsage/badges/large)
-
+ 
   <h1>My Stats </h1>
 
   <h4> Github Stats </h4>
@@ -40,3 +38,6 @@
   ![Sivayogeith's GitHub top langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Sivayogeith&theme=one_dark_pro&layout=compact)
 
  
+<h4>Code Wars</h4>
+
+ ![Code Wars](https://www.codewars.com/users/thecodingsage/badges/large)
