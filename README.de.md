@@ -5,7 +5,7 @@
 
   Ich heiße **Sivayogeith Umamaheswaran, CTO <a href="https://ulagellam.com" target="_blank" >Ulagellam</a>**
 
-  Ich bin nur ein normaler 11-jähriger Junge, der programmmiert
+  Ich bin nur ein normaler 13-jähriger Junge, der programmmiert
 
   I liebe diese ProgrammierSprachen / Frameworks: 
 
@@ -38,16 +38,3 @@
   ![Sivayogeith's GitHub Top-Sprachen](https://github-readme-stats.vercel.app/api/top-langs/?username=Sivayogeith&theme=one_dark_pro&layout=compact&locale=de)
 
   
-  <h4> Discord </h4>
-  
-[![Discord Presence](https://lanyard.cnrad.dev/api/1061949717833068607)](https://discord.com/users/1061949717833068607)
-  
-  <details>
-    <summary> 
-      Meine Familie
-    </summary>
-    <p><a href=https://github.com/h2i> Umamaheswaran </a> - Vater</p>
-    <p>Chitra - Mutter</p>
-    <p><a href=https://github.com/sivasweatha> Sivasweatha </a> - Schwester </p>
-   </details>
- </div>
