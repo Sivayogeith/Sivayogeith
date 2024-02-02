@@ -5,7 +5,7 @@
 
   My Name is **Sivayogeith Umamaheswaran, CTO <a href="https://ulagellam.com" target="_blank" >Ulagellam</a>**
 
-  I'm just a normal 11 year old boy who codes.
+  I'm just a normal 13 year old boy who codes.
 
   I love these languages/frameworks: 
 
@@ -27,7 +27,7 @@
 
   <h4> Github Stats </h4>
 
-  ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=Sivayogeith&show_icons=true&theme=one_dark_pro)
+  ![Sivayogeith's GitHub stats](https://github-readme-stats.vercel.app/api?username=Sivayogeith&show_icons=true&theme=one_dark_pro)
 
   <h4>Github Streak</h4>
 
@@ -37,17 +37,4 @@
 
   ![Sivayogeith's GitHub top langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Sivayogeith&theme=one_dark_pro&layout=compact)
 
-  <h4> Discord </h4>
-  
-[![Discord Presence](https://lanyard.cnrad.dev/api/1061949717833068607)](https://discord.com/users/1061949717833068607)
-  
-  <details>
-    <summary> 
-      My Family
-    </summary>
-    <p><a href=https://github.com/h2i> Umamaheswaran </a> - Father</p>
-    <p>Chitra - Mother</p>
-    <p><a href=https://github.com/sivasweatha> Sivasweatha </a> - Sister </p>
-   </details>
- </div>
-
+ 
