@@ -3,7 +3,7 @@
   <h1> Über Mich </h1>
   <h3> Hallo 👋🏻 </h3>
 
-  Ich heiße **Sivayogeith Umamaheswaran, CTO <a href="https://ulagellam.com" target="_blank" >Ulagellam</a> and Neetling**
+  Ich heiße **Sivayogeith Umamaheswaran, CTO <a href="https://ulagellam.com" target="_blank" >Ulagellam</a> and <a href="https://neetling.com" target="_blank" >Neetling</a>**
 
   Ich bin nur ein normaler 13-jähriger Junge, der programmmiert
 
