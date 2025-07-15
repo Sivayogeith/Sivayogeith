@@ -36,8 +36,3 @@
   <h4> Top Langs </h4>
 
   ![Sivayogeith's GitHub top langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Sivayogeith&theme=one_dark_pro&layout=compact)
-
- 
-<h4>Code Wars</h4>
-
- ![Code Wars](https://www.codewars.com/users/thecodingsage/badges/large)
