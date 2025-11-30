@@ -3,9 +3,9 @@
   <h1> About Me </h1>
   <h3> Hello there 👋🏻 </h3>
 
-  My Name is **Sivayogeith Umamaheswaran, CTO <a href="https://ulagellam.com" target="_blank" >Ulagellam</a> and <a href="https://neetling.com" target="_blank" >Neetling</a>**
+  My Name is **Sivayogeith Umamaheswaran, CTO <a href="https://neetling.com" target="_blank" >Neetling</a>**
 
-  I'm just a normal 13 year old boy who codes.
+  I'm just a normal 14 year old boy who codes.
 
   I love these languages/frameworks: 
 
